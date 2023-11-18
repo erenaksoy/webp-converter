@@ -1,0 +1,7 @@
+# config.txt
+generateall=0
+website="yoursite.com"
+directory="/home/${website}/public_html/wp-content/uploads/"
+quality=80
+log_dir="/root/webp-converter"
+debug_interval_hours=24
